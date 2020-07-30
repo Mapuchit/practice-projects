@@ -10,7 +10,7 @@ Use Python functions and random module to build different games of chance.
 
 ## Technologies
 * Python 3.7.6
- * random module
+  * random module
 * Git Bash 2.27.0
 * Atom v1.49.0
 * Windows 10 Pro
